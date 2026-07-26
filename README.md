@@ -212,8 +212,8 @@ Non-technical role carried through my transition into software, and the source o
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RostyslavNorman&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RostyslavNorman&layout=compact&langs_count=8&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180em" src="https://github-stats-extended-frontend-blond.vercel.app/api?username=RostyslavNorman&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180em" src="https://github-stats-extended-frontend-blond.vercel.app/api/top-langs/?username=RostyslavNorman&layout=compact&langs_count=8&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" />
 
 <br/>
 
