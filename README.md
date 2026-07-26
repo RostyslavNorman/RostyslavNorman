@@ -208,26 +208,9 @@ Non-technical role carried through my transition into software, and the source o
 ---
 
 
-## GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-stats-extended-frontend-blond.vercel.app/api?username=RostyslavNorman&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117" />
-<img height="180em" src="https://github-stats-extended-frontend-blond.vercel.app/api/top-langs/?username=RostyslavNorman&layout=compact&langs_count=8&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=RostyslavNorman&hide_border=true&background=0d1117&stroke=8B5CF6&ring=A855F7&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RostyslavNorman&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
