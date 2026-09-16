@@ -15,8 +15,7 @@
 
 <br/>
 
-
-<a href="https://linkedin.com/in/www.linkedin.com/in/rostyslav-norman-21990027a"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rostyslav-norman-21990027a"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rostn25@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/RostyslavNorman"><img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -108,7 +107,7 @@ A production e-commerce platform for a streetwear resale business: catalogue, fa
 | **Performance** | Server Components for catalogue rendering, image optimisation, URL-synced filter state so every result set is shareable and cacheable |
 | **Security** | Supabase Auth with row-level security policies, server-side validation on all mutations, admin routes behind role checks |
 | **Impact** | Replaced a manual Instagram-DM sales process with a self-serve storefront and an admin panel the owner operates without developer help |
-| **Repository** |[Live Demo](https://https://resalekhplace.com)|
+| **Live Site** | [Live Demo](https://resalekhplace.com) |
 
 Designed the architecture up front — PRD, decision log, and a ten-milestone build plan — before writing feature code, with the admin panel deliberately placed on the critical path so the product was operable from the first release rather than developer-dependent. The filter sidebar mirrors Nike's faceted-search UX, with every facet serialised into the URL so state survives refreshes, back-navigation, and sharing. Also involved real cross-browser engineering, including diagnosing and fixing a Safari-specific `aspect-ratio` bug on flex children.
 
@@ -207,30 +206,19 @@ Non-technical role carried through my transition into software, and the source o
 
 ---
 
-
-
-
-<img src="https://streak-stats.demolab.com?user=RostyslavNorman&hide_border=true&background=0d1117&stroke=8B5CF6&ring=A855F7&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-
-</div>
-
----
-
-## Contribution Activity
+## GitHub Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RostyslavNorman&bg_color=0d1117&color=c9d1d9&line=8B5CF6&point=A855F7&area_color=7C3AED&area=true&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=RostyslavNorman&hide_border=true&background=0d1117&stroke=8B5CF6&ring=A855F7&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak stats" />
 
-</div>
+<br/><br/>
 
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/RostyslavNorman/RostyslavNorman/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RostyslavNorman/RostyslavNorman/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RostyslavNorman/RostyslavNorman/output/snake.svg" />
+  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/RostyslavNorman/RostyslavNorman/output/snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -270,9 +258,8 @@ open_to:
 <div align="center">
 
 <a href="mailto:rostn25@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/rostyslav-norman-21990027a"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rostyslav-norman-21990027a"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/RostyslavNorman"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
-
 
 </div>
 
