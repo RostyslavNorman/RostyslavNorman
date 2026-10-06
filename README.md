@@ -169,15 +169,6 @@ Designing and shipping full-stack web applications for real clients alongside a 
 
 `Next.js` `TypeScript` `React` `PostgreSQL` `Supabase` `Drizzle ORM` `Tailwind CSS` `Vercel`
 
-<br/>
-
-**Warehouse & Logistics Operative** · COMPANY_NAME
-`YEAR — YEAR` · LOCATION
-
-Non-technical role carried through my transition into software, and the source of habits I still use: process discipline, working accurately at pace, and communicating clearly across a shift-based team.
-
-`Process Optimisation` `Reliability` `Team Communication`
-
 ---
 
 ## Achievements
